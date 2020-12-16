@@ -1,0 +1,5 @@
+classes	= 2
+train	= train.txt
+valid	= val.txt
+names	= coco_new.names
+backup	= backup/
